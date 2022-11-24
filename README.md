@@ -19,7 +19,12 @@ To run this project, you'll need to have *npm* installed.
 
 To install the npm, run this on terminal:
 
-	$ npm install -g npm
+	$ sudo apt install nodejs
+	$ sudo apt install npm
+	
+You also need to install expo on your system with:	
+	
+	$ npm install expo-cli --global
 	
 You can read the Expo documentation and install from [here](https://expo.dev/).
 
