@@ -38,6 +38,10 @@ Change to the root directory of the project:
     
     $ cd World-Cup-2022-Sinulator
     
+Install the dependencies:
+
+    $ npm start
+    
 And start the application with:
 
     $ expo start
